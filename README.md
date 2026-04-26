@@ -1,6 +1,14 @@
-# FX — Evaluating Rule-Based Trading Strategies Against Deep Learning Benchmarks for Short-Term Forex Directional Prediction
+# Evaluating Rule-Based Trading Strategies Against Deep Learning Benchmarks for Short-Term Forex Directional Prediction
 
-A research project comparing three rule-based trading strategies against LSTM and GRU deep learning models for next-bar directional prediction on EURUSD and GBPUSD forex data.
+This is a research project comparing three rule-based trading strategies against LSTM and GRU deep learning models for next-bar directional prediction on EURUSD and GBPUSD forex data.
+
+It was created by 
+Ogbogu Chinedu Francis (B00103795)
+School of Computing, Engineering & Intelligent Systems
+Ulster University
+Belfast, United Kingdom
+ogbogu-c1@ulster.ac.uk 
+
 
 ---
 
