@@ -1,0 +1,13 @@
+Strategy,Dataset,Accuracy,N Signals,P-Value,Significant,Statistical Power Note
+MA Crossover,EURUSD 15min,50.95%,17102,0.0068,Yes,Adequate signal count
+MA Crossover,EURUSD 1H,50.89%,4374,0.1222,No,Adequate signal count
+MA Crossover,GBPUSD 15min,50.58%,17093,0.0669,No,Adequate signal count
+MA Crossover,GBPUSD 1H,50.39%,4372,0.3089,No,Adequate signal count
+RSI Threshold,EURUSD 15min,52.10%,1474,0.0560,No,Adequate signal count
+RSI Threshold,EURUSD 1H,52.30%,499,0.1623,No,Low signal count
+RSI Threshold,GBPUSD 15min,51.32%,1592,0.1521,No,Adequate signal count
+RSI Threshold,GBPUSD 1H,52.41%,580,0.1311,No,Low signal count
+Volatility Breakout,EURUSD 15min,52.91%,2030,0.0047,Yes,Adequate signal count
+Volatility Breakout,EURUSD 1H,51.30%,462,0.3044,No,Low signal count
+Volatility Breakout,GBPUSD 15min,53.61%,2009,0.0007,Yes,Adequate signal count
+Volatility Breakout,GBPUSD 1H,53.00%,483,0.1013,No,Low signal count

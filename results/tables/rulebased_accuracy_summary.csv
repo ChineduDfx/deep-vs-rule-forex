@@ -1,0 +1,5 @@
+Dataset,MA Crossover Acc,MA Crossover F1,RSI Threshold Acc,RSI Threshold F1,Volatility Breakout Acc,Volatility Breakout F1
+EURUSD 15min,50.95%,50.96%,52.10%,52.10%,52.91%,52.90%
+EURUSD 1H,50.89%,50.89%,52.30%,52.30%,51.30%,51.30%
+GBPUSD 15min,50.58%,50.55%,51.32%,51.32%,53.61%,53.57%
+GBPUSD 1H,50.39%,50.35%,52.41%,52.40%,53.00%,52.97%

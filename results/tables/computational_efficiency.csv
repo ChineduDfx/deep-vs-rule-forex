@@ -1,0 +1,6 @@
+model,flops,latency_unit,latency,training_s,transparent
+MA Crossover,123,us,,,True
+RSI Threshold,68,us,,,True
+Vol. Breakout,45,us,,,True
+LSTM,38656,ms,76.99394047770001,334.138210251,False
+GRU,28992,ms,76.24594549780004,459.49513592699986,False

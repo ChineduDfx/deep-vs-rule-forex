@@ -1,0 +1,16 @@
+# Data handling
+pandas>=2.2.0
+numpy>=1.26.0
+scipy>=1.13.0
+
+# Machine learning and deep learning
+tensorflow>=2.16.0
+scikit-learn>=1.4.0
+
+# Visualisation
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Progress and utilities
+tqdm>=4.66.0
+openpyxl>=3.1.0
