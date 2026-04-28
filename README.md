@@ -16,6 +16,9 @@ Belfast, United Kingdom
 ogbogu-c1@ulster.ac.uk  
 
 
+Link to the github repo: https://github.com/ChineduDfx/deep-vs-rule-forex.git
+
+
 ---
 
 ## Research Question
